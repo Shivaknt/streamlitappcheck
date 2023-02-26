@@ -3,7 +3,6 @@ from matplotlib import image
 import pandas as pd
 import plotly.express as px
 import os
-import seaborn as sns
 
 # absolute path to this file
 FILE_DIR = os.path.dirname(os.path.abspath(__file__))
